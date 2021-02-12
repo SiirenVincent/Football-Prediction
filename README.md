@@ -1,6 +1,6 @@
 # Football-Prediction
 
-# Introduction
+## Introduction
 
 The FIFA designed Coca-Cola ranking system and was named 'SUM'. It uses metric that adds or subtracts points to the previous score instead of finding the average score. The lowest score which may be negative indicates the worst team while the highest score indicated the best team.
 So in this model we will use two approaches polynomial and logistic algorithm to do our modelling to do our prediction.
